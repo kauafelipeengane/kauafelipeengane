@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rbruxopt.netlify.app-00C7B7?style=for-the-badge)](https://rbruxopt.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-kauaengane.netlify.app-00C7B7?style=for-the-badge)](https://kauaengane.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã_Felipe_Engane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-felipe-engane-b2b34a2b7/)
 [![Email](https://img.shields.io/badge/Email-quauaeng@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quauaeng@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-possuidogov-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/possuidogov)
